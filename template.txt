@@ -1,0 +1,7 @@
+# Generic Template
+- **Title**: {title}
+- **Author**: [[@{author}]]
+- **Genre**: 
+- **Read**: {first_clipping_date} - {last_clipping_date}
+
+{clippings}
